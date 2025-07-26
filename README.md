@@ -6,6 +6,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 npx eas build -p android --profile apk
 
+Lien apk :
+https://drive.google.com/uc?export=download&id=1jtLit1gQqYvInW0w5b7l9hC93zbdzDL8
+
 ## Get started
 
 1. Install dependencies
