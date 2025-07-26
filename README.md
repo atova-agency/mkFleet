@@ -4,7 +4,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Creer une apk en ligne
 
-eas build --profile production --platform android
+npx eas build -p android --profile apk
 
 ## Get started
 
